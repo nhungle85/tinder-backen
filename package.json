@@ -1,0 +1,27 @@
+{
+  "name": "tinder-backen",
+  "version": "1.0.0",
+  "description": "Backend system for Tinder-app-demo which is written in node js",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhungle85/tinder-backen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhungle85/tinder-backen/issues"
+  },
+  "homepage": "https://github.com/nhungle85/tinder-backen#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  }
+}
